@@ -1,6 +1,6 @@
 # release
 
----------------------Cancel changes
+---------------------
 Date: 2022-11-5
 Hisense_Version：IM20C.HXX7.01.12.CW
 变更记录：
